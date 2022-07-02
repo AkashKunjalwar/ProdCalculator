@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProdCalculator/static/css/main.fc259eb0.css",
+    "main.js": "/ProdCalculator/static/js/main.7a566318.js",
+    "index.html": "/ProdCalculator/index.html",
+    "main.fc259eb0.css.map": "/ProdCalculator/static/css/main.fc259eb0.css.map",
+    "main.7a566318.js.map": "/ProdCalculator/static/js/main.7a566318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc259eb0.css",
+    "static/js/main.7a566318.js"
+  ]
+}
