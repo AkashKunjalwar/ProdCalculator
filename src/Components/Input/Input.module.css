@@ -1,0 +1,66 @@
+.form{
+    height:100%;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.inputs{
+    display: block;
+}
+
+label{
+    font-size: 20px;
+    flex: 40%;
+}
+
+select{
+    font-size: 15px;
+    flex: 60%;
+    width: 100%
+}
+
+input{
+    font-size: 15px;
+    padding-left: 0.5rem;
+    flex: 58%;
+}
+
+.clusterSelection{
+    margin-left: 3rem;
+    margin-right: 3rem;
+    display: flex;
+    text-align: left;
+}
+
+.workflowSelection{
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 2rem;
+    display: flex;
+    text-align: left;
+}
+
+.fixedCountSelection{
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 2rem;
+    text-align: left;
+    display: flex;
+}
+
+.downtimeSelection{
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 2rem;
+    text-align: left;
+    display: flex;
+}
+
+.submitButton{
+    height: 35px;
+    width: 50%;
+    margin: 2rem;
+    background-color: green;
+    color: white;
+    border-radius: 1rem;
+}

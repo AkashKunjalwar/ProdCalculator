@@ -1,0 +1,65 @@
+.output{
+    margin: 2rem; 
+}
+
+.aboutSection{
+    height: 100%;  
+    border-style: solid;
+    border-color: black;
+    border-radius: 1rem;
+    text-align: justify;
+    line-height: 1.5;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+    font-size: 20px;
+}
+
+.aboutSection h3{
+    text-align: center;
+}
+
+.tableDiv{
+    height: 300px;  
+    overflow-y: scroll;
+    border-style: solid;
+    border-color: black;
+    border-radius: 1rem;
+}
+
+.table{    
+    width: 100%;
+}
+
+tr{
+    display: flex;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    padding: 10px;
+}
+
+tr:last-child{
+    border-bottom-style: none;
+}
+
+th,td{
+    flex:12.5%;
+}
+
+.prodButton{
+    width: 20%;
+    margin: 1rem;
+    background-color: green;
+    border-radius: 1rem;
+    color: white;
+    height: 30px;
+}
+
+.deleteAllButton{
+    width: 20%;
+    margin: 1rem;
+    background-color: black;
+    border-radius: 1rem;
+    color: white;
+    height: 30px;
+}

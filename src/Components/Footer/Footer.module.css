@@ -1,0 +1,15 @@
+.footer{
+    background-color: black;
+    padding: 0.15rem;
+    color: white;
+}
+
+.footerByDefault{
+    background-color: black;
+    padding: 0.15rem;
+    color: white;
+    position: absolute;
+    left:0;
+    right: 0;
+    bottom: 0;
+}
